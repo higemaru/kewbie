@@ -24,6 +24,9 @@
 |bolt M2 8mm|10|
 |Nut M2|20|
 
+## Build Guide
+
+* [Kewbie46 build guide](guide)
 
 ## Bootloader / Customize
 
