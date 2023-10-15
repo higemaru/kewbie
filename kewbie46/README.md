@@ -10,10 +10,10 @@
 
 |Name|Count|Remarks|
 |---|--|--|
-|PCB|1|1.6mm thick [[garber](kewbie46/gerber/jlcpcb)]|
-|Top plate|1|1.6mm thick [[garber](kewbie46/gerber/jlcpcb)]|
-|Buttom plate|1|1.6mm thick [[garber](kewbie46/gerber/jlcpcb)]|
-|Cover Plate|1|[[garber](kewbie46/gerber/jlcpcb)]|
+|PCB|1|1.6mm thick [[garber](gerber/jlcpcb)]|
+|Top plate|1|1.6mm thick [[garber](gerber/jlcpcb)]|
+|Buttom plate|1|1.6mm thick [[garber](gerber/jlcpcb)]|
+|Cover Plate|1|[[garber](gerber/jlcpcb)]|
 |RP2040-Zero|1|https://www.waveshare.com/wiki/RP2040-Zero|
 |Diodes|46|SMD style (SOD123/1N4148W)|
 |Key sockets|46| Cherry MX Compatible|
