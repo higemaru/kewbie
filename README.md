@@ -18,6 +18,10 @@ It means '*KE*yboard made by n*EWBIE* of sell-made'.
 
 <img src="https://i.imgur.com/OsmuWYN.png" alt="kewbie46_01" width="50%" />
 
+### Build Guide
+
+* [Kewbie46 build guide](kewbie46/guide)
+
 ### Bootloader / Customize
 
 * [Kewbie46 - Remap](https://remap-keys.app/catalog/hTfNsK0O3Sb1Jaafdm3x)
