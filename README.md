@@ -24,6 +24,8 @@ It means '*KE*yboard made by n*EWBIE* of sell-made'.
 
 ### Bootloader / Customize
 
+* [Source code](https://github.com/higemaru/qmk_firmware/)
+
 * [Kewbie46 - Remap](https://remap-keys.app/catalog/hTfNsK0O3Sb1Jaafdm3x)
 
 * **Physical reset button**: Briefly press the button on the PCB - some may have pads you must short instead
