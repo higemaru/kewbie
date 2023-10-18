@@ -8,10 +8,10 @@ This is the building guide for Kewbie46.
 
 |Name|Count|Remarks|
 |---|--|--|
-|PCB|1|1.6mm thick [[garber](gerber/jlcpcb)]|
-|Top plate|1|1.6mm thick [[garber](gerber/jlcpcb)]|
-|Buttom plate|1|1.6mm thick [[garber](gerber/jlcpcb)]|
-|Cover Plate|1|[[garber](gerber/jlcpcb)]|
+|PCB|1|1.6mm thick [[gerber](../gerber/jlcpcb)]|
+|Top plate|1|1.6mm thick [[gerber](../gerber/jlcpcb)]|
+|Buttom plate|1|1.6mm thick [[gerber](../gerber/jlcpcb)]|
+|Cover Plate|1|[[gerber](../gerber/jlcpcb)]|
 |RP2040-Zero|1|https://www.waveshare.com/wiki/RP2040-Zero|
 |Diodes|46|SMD style (SOD123/1N4148W)|
 |Key sockets|46| Cherry MX Compatible|
