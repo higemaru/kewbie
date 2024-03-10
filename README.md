@@ -18,6 +18,19 @@ It means '*KE*yboard made by n*EWBIE* of sell-made'.
 
 <img src="https://i.imgur.com/OsmuWYN.png" alt="kewbie46_01" width="50%" />
 
+## Kewbie46 LiLi
+
+40% keyboard designed for the SONSHI style (placed on top of a MacBook), and low profile and narrow pitch keys (17mm).
+
+![kewbie46_lili](https://imgur.com/RKN4ofS.png)
+
+## Kewbie Keycap
+
+Narrow pitch (17mm) Cherry MX keycaps
+![kewbie-keycap](https://i.imgur.com/x2xZhXk.png)
+![kewbie-keycap-sideview](https://imgur.com/pJWb9gg.png)
+
+
 ### Build Guide
 
 * [Kewbie46 build guide](kewbie46/guide)
