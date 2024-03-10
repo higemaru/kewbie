@@ -1,7 +1,7 @@
 # Kewbie
 
 'Kewbie' is a series of self-made keyboards by Higemaru.
-It means '*KE*yboard made by n*EWBIE* of sell-made'.
+It means '*KE*yboard made by n*EWBIE* of self-made'.
 
 ## Kewbie43 sp
 40% splitted keyboard.
