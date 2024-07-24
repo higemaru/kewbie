@@ -26,10 +26,12 @@ Kewbie46 ビルドガイドです
 
 ### ボトムプレート
 
-![buttom_01](images/buttom_01.png)
-![buttom_02](images/buttom_02.png)
-![buttom_03](images/buttom_03.png)
-![buttom_04](images/buttom_04.png)
+![bottom_01](images/bottom_01.png)
+![bottom_02](images/bottom_02.png)
+![bottom_03](images/bottom_03.png)
+![bottom_04](images/bottom_04.png)
+
+![bottom_06](images/bottom_06.png)
 
 ### PCB
 
@@ -46,8 +48,10 @@ Kewbie46 ビルドガイドです
 
 ![mcu_01](images/mcu_01.png)
 
-#### PCB & Bottom
+### PCB & ボトムプレート
 
+![bottom_05](images/bottom_05.png)
+![middle_01](images/middle_01.png)
 
 ### トップレート
 
