@@ -12,7 +12,7 @@ MacBook での尊師スタイル用にデザインした、40% キーボード�
 |---|--|--|
 |PCB|1|1.6mm 厚 [[gerber](gerber/kewbie46/jlcpcb)]|
 |トップレート|1|1.6mm 厚 [[gerber](gerber/kewbie46/jlcpcb)]|
-|ボトムプレート|1|1.6mm thick [[gerber](gerber/kewbie46/jlcpcb)]|
+|ボトムプレート|1|1.6mm 厚 [[gerber](gerber/kewbie46/jlcpcb)]|
 |MCU カバー|1|[[gerber](gerber/kewbie46/jlcpcb)]|
 |RP2040-Zero|1|https://www.waveshare.com/wiki/RP2040-Zero|
 |ダイオード|46|SMD style (SOD123/1N4148W)|
