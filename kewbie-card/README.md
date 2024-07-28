@@ -19,7 +19,7 @@
 ## Bootloader / Customize
 
 * **Physical reset button**: Briefly press the button on the PCB - some may have pads you must short instead
+  * To enter USB mass storage mode, press the RESET button with holding down the BOOT button, and write firmware by drag & drop.
 
 * [Firmware](firmware)
-
-* [Vial](https://vial.today/)
+  * [Vial](https://vial.today/)

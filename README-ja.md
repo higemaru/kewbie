@@ -37,8 +37,9 @@ MacBook での尊師スタイル用にデザインした、40% キーボード�
 
 ### ブートローダ / カスタマイズ
 
-* [Source code](https://github.com/higemaru/qmk_firmware/)
-
-* [Kewbie46 - Remap](https://remap-keys.app/catalog/hTfNsK0O3Sb1Jaafdm3x)
-
 * **リセットボタン**: PCB 上のボタンを短く押してください。パッドをショートさせる場合もあります。
+  * BOOT ボタンを押しながら RESET ボタンを押すと USB マスストレージモードになり、ドラッグ & ドロップでファームウェアを書き込むことができます
+* [Firmware](firmware)
+  * [Vial](https://vial.today/)
+  * [Kewbie46 - Remap](https://remap-keys.app/catalog/hTfNsK0O3Sb1Jaafdm3x)
+* [Source code](https://github.com/higemaru/qmk_firmware/)

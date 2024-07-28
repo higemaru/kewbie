@@ -30,6 +30,10 @@
 
 ## Bootloader / Customize
 
-* [Kewbie46 - Remap](https://remap-keys.app/catalog/hTfNsK0O3Sb1Jaafdm3x)
-
 * **Physical reset button**: Briefly press the button on the PCB - some may have pads you must short instead
+  * To enter USB mass storage mode, press the RESET button with holding down the BOOT button, and write firmware by drag & drop.
+
+* [Firmware](firmware)
+  * [Vial](https://vial.today/)
+  * [Kewbie46 - Remap](https://remap-keys.app/catalog/hTfNsK0O3Sb1Jaafdm3x)
+* [Source code](https://github.com/higemaru/qmk_firmware/)
