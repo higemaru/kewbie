@@ -24,14 +24,6 @@ It means '*KE*yboard made by n*EWBIE* of self-made'.
 
 ![kewbie46_lili](https://imgur.com/RKN4ofS.png)
 
-## Kewbie Keycap
-
-Narrow pitch (17mm) Cherry MX keycaps.
-
-![kewbie-keycap](https://imgur.com/BCFj5uh.png)
-![kewbie-keycap-sideview](https://imgur.com/MLvnXi3.png)
-
-
 ### Build Guide
 
 * [Kewbie46 build guide](kewbie46/guide)
@@ -44,3 +36,11 @@ Narrow pitch (17mm) Cherry MX keycaps.
   * [Vial](https://vial.today/)
   * [Kewbie46 - Remap](https://remap-keys.app/catalog/hTfNsK0O3Sb1Jaafdm3x)
 * [Source code](https://github.com/higemaru/qmk_firmware/)
+
+## Kewbie Keycap
+
+Narrow pitch (17mm) Cherry MX keycaps.
+
+![kewbie-keycap](https://imgur.com/BCFj5uh.png)
+![kewbie-keycap-sideview](https://imgur.com/MLvnXi3.png)
+

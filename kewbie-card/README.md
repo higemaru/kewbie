@@ -23,3 +23,4 @@
 
 * [Firmware](firmware)
   * [Vial](https://vial.today/)
+* [Source code](https://github.com/higemaru/qmk_firmware/)
