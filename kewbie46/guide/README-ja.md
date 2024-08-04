@@ -96,7 +96,7 @@ Kewbie46 は「RP2040-Zero」というマイコンを使っています。はん
 ピンを並べて、その上に RP2040-Zero をのせ、マスキングテープで固定してはんだづけ
 ![MCU_solder_01](images/MCU_solder_01.png)![MCU_solder_02](images/MCU_solder_02.png)![MCU_solder_03](images/MCU_solder_03.png)
 
-表が終わったら裏側もハンダづけ。マスキングテープで傾かきがないように固定し直してください。私はピンを先に切ってから作業するほうがやりやすいです
+表が終わったら裏側もハンダづけ。マスキングテープで傾きがないように固定し直してください。私はピンを先に切ってから作業するほうがやりやすいです
 ![MCU_solder_07](images/MCU_solder_07.png)
 
 ### PCB & ボトムプレート
