@@ -23,12 +23,15 @@ Other keyboard authors have provided great build guides. I recommend that you re
 ## Assembly
 
 On older boards, the knobs for encoders with larger diameters will not turn (because they interfere with the keyboard).
+
 ![IMG_1111](images/IMG_1111.png)
 
 Line up the Cherry MX or Choc V1/V2 key switches and solder from the back side.
 It is easier to work with masking tape to hold it in place.I use Kapton tape (insulation heat resistant).
 Be careful not to tilt the key switch.
+
 ![IMG_1112](images/IMG_1112.png)![IMG_1113](images/IMG_1113.png)
 
 same for other parts.
+
 ![IMG_1114](images/IMG_1114.png)![IMG_1116](images/IMG_1116.png)![IMG_1117](images/IMG_1117.png)![IMG_1118](images/IMG_1118.png)![IMG_1119](images/IMG_1119.png)![IMG_1122](images/IMG_1122.png)

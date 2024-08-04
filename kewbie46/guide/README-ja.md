@@ -94,16 +94,21 @@ Kewbie46 は「RP2040-Zero」というマイコンを使っています。はん
 以下、写真は違うキーボードのものです。
 
 ピンを並べて、その上に RP2040-Zero をのせ、マスキングテープで固定してはんだづけ
+
 ![MCU_solder_01](images/MCU_solder_01.png)![MCU_solder_02](images/MCU_solder_02.png)![MCU_solder_03](images/MCU_solder_03.png)
 
 表が終わったら裏側もハンダづけ。マスキングテープで傾きがないように固定し直してください。私はピンを先に切ってから作業するほうがやりやすいです
+
 ![MCU_solder_07](images/MCU_solder_07.png)
 
 ### PCB & ボトムプレート
 
-ボトムプレートの外側から 8mm ネジを通し、ナットで固定します![bottom_05](images/bottom_05.png)
+ボトムプレートの外側から 8mm ネジを通し、ナットで固定します
+
+![bottom_05](images/bottom_05.png)
 
 ボトムプレートに固定されたネジを、PCB のネジ穴に通し、ナットで固定してください
+
 ![middle_01](images/middle_01.png)
 
 ### トップレート

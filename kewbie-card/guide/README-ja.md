@@ -44,10 +44,13 @@ Kewbie Card のビルドガイドです
 ### 始めに
 
 すべてのパーツです。古い基板だと、エンコーダ用のノブは、直径の大きいものはキーボードと干渉して回りません。
+
 ![IMG_1111](images/IMG_1111.png)
 
 Cherry MX もしくは Choc V1/V2 のキースイッチを並べて、裏側からはんだ付けしてください。マスキングテープで固定して作業するとやりやすくなります。私はカプトンテープ（絶縁耐熱）を使っています。キースイッチが傾かないよう注意してください。
+
 ![IMG_1112](images/IMG_1112.png)![IMG_1113](images/IMG_1113.png)
 
 他のパーツも同様に。
+
 ![IMG_1114](images/IMG_1114.png)![IMG_1116](images/IMG_1116.png)![IMG_1117](images/IMG_1117.png)![IMG_1118](images/IMG_1118.png)![IMG_1119](images/IMG_1119.png)![IMG_1122](images/IMG_1122.png)
