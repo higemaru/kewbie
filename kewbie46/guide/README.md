@@ -24,6 +24,14 @@ This is the building guide for Kewbie46.
 
 ## Assembly
 
+### Introduction
+
+Other keyboard authors have provided great build guides. I recommend that you read some of them beforehand, so you will learn a lot .
+
+### Check the MCU
+
+"Kewbie46" uses a microcontroller "RP2040-Zero". Before soldering, first you should write the firmware to make sure it is not defective.
+
 ### Bottom Plate
 
 ![bottom_01](images/bottom_01.png)
@@ -37,6 +45,8 @@ This is the building guide for Kewbie46.
 
 #### Diode
 
+Diode is already soldered.
+
 ![diode_01](images/pcb.png)
 
 #### Key sockets
@@ -48,10 +58,16 @@ This is the building guide for Kewbie46.
 
 ![mcu_01](images/mcu_01.png)
 
+![MCU_solder_01](images/MCU_solder_01.png)![MCU_solder_02](images/MCU_solder_02.png)![MCU_solder_03](images/MCU_solder_03.png)
+
+![MCU_solder_07](images/MCU_solder_07.png)
+
 ### PCB & Bottom
 
 ![bottom_05](images/bottom_05.png)
 ![middle_01](images/middle_01.png)
+
+
 
 ### Top Plate
 
