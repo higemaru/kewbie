@@ -36,7 +36,7 @@ target = "home"; // [jlc3dp, home]
 /* [1u Keys] */
 num_R1          = 0; // [0:20]
 num_R2          = 0; // [0:20]
-num_R3          = 0; // [0:20]
+num_R3          = 1; // [0:20]
 num_R4          = 0; // [0:20]
 num_Home        = 0; // [0:20]
 num_Convex      = 0; // [0:20]
