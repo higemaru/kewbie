@@ -5,7 +5,11 @@ Narrow pitch (17mm) Cherry MX / Choc V2 keycaps.
 ![kewbie-keycap](https://imgur.com/BCFj5uh.png)
 ![kewbie-keycap-sideview](https://imgur.com/MLvnXi3.png)
 
-##   references
+## LICENSE
+
+Zero-Clause BSD LICENSE
+
+##   REFERENCES
 
 - [CHERRY MX Developer Information | Individual MX keyboard - Cherry](https://www.cherry-world.com/cherry-mx/developer)
 - [tamago324/small-keycaps](https://github.com/tamago324/small-keycaps)
