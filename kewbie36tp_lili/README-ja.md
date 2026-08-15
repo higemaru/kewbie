@@ -27,6 +27,9 @@ MacBook での尊師スタイル用にデザインした、36キーのキーボ�
 |タッチパッド|1|[TPS43-201A-S](https://www.marutsu.co.jp/pc/i/25650684/)|
 |FPC コネクター|1|[kinghelm KH-FG0.5-H2.0-6PIN](https://www.lcsc.com/product-detail/C709363.html)|
 |リボンケーブル|1|0.5mm 6pin リボンケーブル|
+|M2 x 4mm ネジ|12||
+|M2 ナット|4||
+|M2 x 6mm スペーサー|4||
 
 ## ビルドガイド
 

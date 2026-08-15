@@ -27,6 +27,9 @@
 |Touch Pad|1|[TPS43-201A-S](https://www.marutsu.co.jp/pc/i/25650684/)|
 |FPC Connector|1|[kinghelm KH-FG0.5-H2.0-6PIN](https://www.lcsc.com/product-detail/C709363.html)|
 |Flat cable|1|0.5mm 6pin ribbon cable|
+|Bolt M2 4mm|12||
+|Nut M2|4||
+|Spacer M2 6mm|4||
 
 ## Build Guide
 
